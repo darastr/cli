@@ -1,0 +1,11 @@
+Copyright (c) 2026 Karum. All rights reserved.
+
+This software and its source are proprietary and confidential. The `@karum/cli`
+package is distributed via the public npm registry solely to allow installation
+and use of the Karum platform CLI.
+
+No license is granted to copy, modify, redistribute, sublicense, reverse-engineer,
+or create derivative works, in whole or in part, except as expressly permitted in
+writing by Karum.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
